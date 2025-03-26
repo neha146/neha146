@@ -1,4 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I am Neha 
+ Full-Stack Developer| Django| React | Python
+
+ ## About Me
+ - 🔭 Currently building full-satck projects
+ - 🌱 Learning advanced Django
+ - 🎯 Seeking a full time developer role
+
+## Tech Stack
+- *Backend:* Django
+- *Frontend:* HTML, CSS, Javascript, React
+- *Database:* Mysql
+- *Version Control:* Git & Github
+ 
 
 <!--
 **neha146/neha146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
